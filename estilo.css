@@ -43,3 +43,12 @@ background: linear-gradient(270deg, rgba(221,201,233,1) 8%, rgba(226,203,215,1) 
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 /* cierra estilo tarjetitas*/
+
+/*estilo footer*/
+footer{
+    background: rgb(221,201,233);
+background: linear-gradient(270deg, rgba(221,201,233,1) 8%, rgba(226,203,215,1) 38%, rgba(228,231,233,1) 86%);
+
+}
+
+/*cierra estilo footer*/
