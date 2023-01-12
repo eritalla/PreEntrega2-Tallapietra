@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100;300&family=Andika:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* estilo de header */
+.logo{
+    display: flex;
+background: rgb(221,201,233);
+background: linear-gradient(270deg, rgba(221,201,233,1) 8%, rgba(226,203,215,1) 38%, rgba(228,231,233,1) 86%);
+}
+
+.logo h1{
+    color: black;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+/* cierra estilo header */
